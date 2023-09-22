@@ -1,7 +1,8 @@
 
 # KRM modelling of dagaa
 
-<img src="https://github.com/yangyangMarine/KRMdagaa/blob/162ebcbc34ee2afc6a0074301b9885451def7cc4/Figures/StA.jpg" align="center" width="300" />
+<img src="https://github.com/yangyangMarine/KRMdagaa/blob/162ebcbc34ee2afc6a0074301b9885451def7cc4/Figures/StA.jpg" align="center" width="300">
+
 Yang Yang, [University of St Andrews](https://www.st-andrews.ac.uk/)
 
 ## Description
