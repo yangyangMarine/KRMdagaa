@@ -1,6 +1,12 @@
 
 # KRM modelling of dagaa
 
+Figures/LV.jpg
+https://github.com/yangyangMarine/KRMdagaa/blob/162ebcbc34ee2afc6a0074301b9885451def7cc4/Figures/LV.jpg
+
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| <img src="https://github.com/yangyangMarine/KRMdagaa/blob/162ebcbc34ee2afc6a0074301b9885451def7cc4/Figures/LV.jpg" width="100" /> | <img src="https://github.com/yangyangMarine/KRMdagaa/blob/162ebcbc34ee2afc6a0074301b9885451def7cc4/Figures/StA.jpg" width="100" /> | <img src="https://github.com/yangyangMarine/KRMdagaa/blob/162ebcbc34ee2afc6a0074301b9885451def7cc4/Figures/SOI.jpg" width="100" /> | <img src="https://github.com/yangyangMarine/KRMdagaa/blob/162ebcbc34ee2afc6a0074301b9885451def7cc4/Figures/dagaa.jpg" width="100" /> | 
+
 ## Description
 Materials underpinning the publication: Yang Yang, Sven Gastauer, Roland Proud, Richard Mangeni-Sande, Inigo Everson, Robert J Kayanda, Andrew S Brierley, Modelling and in situ observation of broadband acoustic scattering from the Silver cyprinid (_Rastrineobola argentea_) in Lake Victoria, East Africa, ICES Journal of Marine Science, 2023. (https://doi.org/10.1093/icesjms/fsad137)
 
